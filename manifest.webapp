@@ -1,0 +1,16 @@
+
+{
+  "name": "TextNow Lite",
+  "description": "Quick access to TextNow Web",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/icon.png"
+  },
+  "developer": {
+    "name": "Faith's App",
+    "url": "https://www.textnow.com"
+  },
+  "permissions": [],
+  "type": "web",
+  "version": "1.0"
+}
